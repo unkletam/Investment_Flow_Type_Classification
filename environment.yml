@@ -9,6 +9,6 @@ dependencies:
   - ipywidgets
   - seaborn
   - missingno
-  - warnings
+
   
   
