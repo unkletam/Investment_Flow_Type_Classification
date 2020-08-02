@@ -1,0 +1,14 @@
+name: env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - plotly
+  - ipywidgets
+  - seaborn
+  - missingno
+  - warnings
+  
+  
