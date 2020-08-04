@@ -5,6 +5,8 @@ pandas
 seaborn
 matplotlib
 plotly
+missingno
 ipywidgets
+ipython
 sklearn
 jupyter-flex
