@@ -7,3 +7,4 @@ matplotlib
 plotly
 ipywidgets
 sklearn
+jupyter-flex
