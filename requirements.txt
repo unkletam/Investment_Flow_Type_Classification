@@ -6,5 +6,4 @@ seaborn
 matplotlib
 plotly
 ipywidgets
-warnings
 sklearn
