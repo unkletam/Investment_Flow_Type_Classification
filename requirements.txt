@@ -10,3 +10,4 @@ ipywidgets
 ipython
 sklearn
 jupyter-flex
+yellowbrick
