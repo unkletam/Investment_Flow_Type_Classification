@@ -1,0 +1,10 @@
+voila
+voila-material
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+ipywidgets
+warnings
+sklearn
