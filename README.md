@@ -9,3 +9,7 @@ This project aims to Analyze and Predict Investment Flow Type using a Machine Le
 This dataset is made available by AidData. They are doing some amazing work.
 For any Licensing related queries please refer to AidData's website.
 Please give them a visit on their website -> https://www.aiddata.org
+
+![dashboard](https://drive.google.com/file/d/1Yns96YOGxlEu4571GAr9WCvOaWrqeh1c/view?usp=sharing)
+
+
