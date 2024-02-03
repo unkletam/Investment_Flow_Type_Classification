@@ -1,4 +1,4 @@
-# Investment Flow Type Classification (FDI)
+# Investment Flow Type Classification(FDI)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/unkletam/Investment_Flow_Type_Classification/master) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://flow-classification.herokuapp.com/)
